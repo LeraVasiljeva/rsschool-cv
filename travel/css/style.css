@@ -8,7 +8,7 @@ color: #FFFFFF;
 }
 
 body {
-  background: url(./img/bg1.png) center top no-repeat, url(./images/Rectangle 33.png) center bottom no-repeat;
+  background: url(../img/bg1.png) center top no-repeat, url(../images/Rectangle 33.png) center bottom no-repeat;
   margin: auto;
   max-width: 1440px;
   width: 100%;
